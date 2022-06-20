@@ -1,0 +1,17 @@
+.header {
+  padding: 0 1rem 0 1rem;
+  border-bottom: 1px hidden;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 0 0 8px 0 steelblue;
+  transition: 0.3s;
+}
+
+.header p {
+  font-size: 1.25rem;
+}
+
+.header button {
+  padding: 1rem 1rem;
+  margin: 8px;
+}
